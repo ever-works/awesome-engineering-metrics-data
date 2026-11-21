@@ -1,0 +1,12 @@
+- id: engineering-intelligence-platforms
+  name: "Engineering Intelligence Platforms"
+- id: dora-metrics
+  name: "DORA Metrics"
+- id: developer-experience-devex-surveys
+  name: "Developer Experience (DevEx) Surveys"
+- id: open-source-metrics
+  name: "Open-Source Metrics"
+- id: git-analytics
+  name: "Git Analytics"
+- id: ai-coding-impact
+  name: "AI Coding Impact"

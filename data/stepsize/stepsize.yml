@@ -1,0 +1,13 @@
+name: "Stepsize"
+description: "AI-powered engineering metrics platform that tracks sprint progress, tech debt, and delivery insights by integrating with Jira, Linear, and GitHub."
+source_url: "https://stepsize.com/"
+category: "AI Coding Impact"
+tags:
+  - "freemium"
+  - "paid"
+  - "ai-powered"
+  - "api"
+  - "engineering-intelligence"
+icon_url: "https://icons.duckduckgo.com/ip3/stepsize.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://stepsize.com/>\n"
+updated_at: "2026-11-21 06:47"

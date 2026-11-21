@@ -1,0 +1,13 @@
+name: "Hatica"
+description: "Engineering productivity platform that combines DORA metrics, developer activity, and collaboration data to help teams identify bottlenecks and improve delivery."
+source_url: "https://hatica.io/"
+category: "Engineering Intelligence Platforms"
+tags:
+  - "freemium"
+  - "paid"
+  - "api"
+  - "dora-metrics"
+  - "engineering-intelligence"
+icon_url: "https://icons.duckduckgo.com/ip3/hatica.io.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://hatica.io/>\n"
+updated_at: "2026-11-21 06:47"

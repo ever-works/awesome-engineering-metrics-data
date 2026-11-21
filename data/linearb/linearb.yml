@@ -1,0 +1,13 @@
+name: "LinearB"
+description: "Engineering intelligence platform that tracks DORA metrics, workflow bottlenecks, and project delivery for software teams."
+source_url: "https://linearb.io/"
+category: "Engineering Intelligence Platforms"
+tags:
+  - "freemium"
+  - "paid"
+  - "api"
+  - "dora-metrics"
+  - "engineering-intelligence"
+icon_url: "https://icons.duckduckgo.com/ip3/linearb.io.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://linearb.io/>\n"
+updated_at: "2026-11-21 06:47"

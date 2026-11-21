@@ -1,0 +1,13 @@
+name: "Code Climate"
+description: "Engineering efficiency platform (Velocity) that measures DORA metrics, code quality, and team velocity to help engineering leaders improve delivery performance."
+source_url: "https://codeclimate.com/"
+category: "Engineering Intelligence Platforms"
+tags:
+  - "paid"
+  - "enterprise"
+  - "api"
+  - "dora-metrics"
+  - "engineering-intelligence"
+icon_url: "https://icons.duckduckgo.com/ip3/codeclimate.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://codeclimate.com/>\n"
+updated_at: "2026-11-21 06:47"

@@ -1,0 +1,13 @@
+name: "Swarmia"
+description: "Engineering effectiveness platform that helps teams improve flow, reduce bottlenecks, and track DORA metrics through integrations with GitHub, GitLab, Jira, and Azure DevOps."
+source_url: "https://swarmia.com/"
+category: "Engineering Intelligence Platforms"
+tags:
+  - "freemium"
+  - "paid"
+  - "api"
+  - "dora-metrics"
+  - "engineering-intelligence"
+icon_url: "https://icons.duckduckgo.com/ip3/swarmia.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://swarmia.com/>\n"
+updated_at: "2026-11-21 06:47"

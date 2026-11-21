@@ -1,0 +1,13 @@
+name: "Sleuth"
+description: "DORA metrics and deployment tracking platform that connects to CI/CD and issue trackers to measure deployment frequency, lead time, and change failure rate."
+source_url: "https://sleuth.io/"
+category: "DORA Metrics"
+tags:
+  - "freemium"
+  - "paid"
+  - "api"
+  - "dora-metrics"
+  - "deployment-tracking"
+icon_url: "https://icons.duckduckgo.com/ip3/sleuth.io.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://sleuth.io/>\n"
+updated_at: "2026-11-21 06:47"

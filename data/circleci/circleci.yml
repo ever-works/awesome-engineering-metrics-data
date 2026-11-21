@@ -1,0 +1,13 @@
+name: "CircleCI"
+description: "CI/CD platform with Insights that tracks DORA metrics, build performance, and deployment trends for engineering teams."
+source_url: "https://circleci.com/"
+category: "DORA Metrics"
+tags:
+  - "freemium"
+  - "paid"
+  - "api"
+  - "dora-metrics"
+  - "ci-cd"
+icon_url: "https://icons.duckduckgo.com/ip3/circleci.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://circleci.com/>\n"
+updated_at: "2026-11-21 06:47"

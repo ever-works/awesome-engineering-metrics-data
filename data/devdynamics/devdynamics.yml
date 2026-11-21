@@ -1,0 +1,13 @@
+name: "DevDynamics"
+description: "Engineering intelligence platform that provides DORA metrics, sprint insights, and engineering health dashboards by integrating with Git, CI/CD, and project management tools."
+source_url: "https://devdynamics.ai/"
+category: "Engineering Intelligence Platforms"
+tags:
+  - "freemium"
+  - "paid"
+  - "api"
+  - "dora-metrics"
+  - "engineering-intelligence"
+icon_url: "https://icons.duckduckgo.com/ip3/devdynamics.ai.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://devdynamics.ai/>\n"
+updated_at: "2026-11-21 06:47"

@@ -1,0 +1,13 @@
+name: "DX"
+description: "Developer experience platform that combines quantitative engineering data with qualitative developer surveys to measure productivity, satisfaction, and workflow friction."
+source_url: "https://dx.com/"
+category: "Developer Experience (DevEx) Surveys"
+tags:
+  - "paid"
+  - "enterprise"
+  - "api"
+  - "developer-experience"
+  - "surveys"
+icon_url: "https://icons.duckduckgo.com/ip3/dx.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://dx.com/>\n"
+updated_at: "2026-11-21 06:47"

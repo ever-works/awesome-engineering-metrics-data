@@ -1,0 +1,12 @@
+name: "CHAOSS"
+description: "Open-source community health analytics project that provides metrics and software for measuring open-source community growth, diversity, and contribution."
+source_url: "https://chaoss.community/"
+category: "Open-Source Metrics"
+tags:
+  - "open-source"
+  - "free"
+  - "community-health"
+  - "metrics"
+icon_url: "https://icons.duckduckgo.com/ip3/chaoss.community.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://chaoss.community/>\n- Repository: <https://github.com/chaoss>\n\nLicense: Various.\n"
+updated_at: "2026-11-21 06:47"

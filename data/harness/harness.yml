@@ -1,0 +1,13 @@
+name: "Harness"
+description: "Software delivery platform that includes continuous delivery, feature flags, and DORA metrics for measuring deployment frequency and lead time."
+source_url: "https://harness.io/"
+category: "DORA Metrics"
+tags:
+  - "paid"
+  - "enterprise"
+  - "api"
+  - "dora-metrics"
+  - "continuous-delivery"
+icon_url: "https://icons.duckduckgo.com/ip3/harness.io.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://harness.io/>\n"
+updated_at: "2026-11-21 06:47"

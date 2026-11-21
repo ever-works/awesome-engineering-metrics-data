@@ -1,0 +1,46 @@
+- id: freemium
+  name: "Freemium"
+- id: paid
+  name: "Paid"
+- id: api
+  name: "API"
+- id: dora-metrics
+  name: "DORA Metrics"
+- id: engineering-intelligence
+  name: "Engineering Intelligence"
+- id: enterprise
+  name: "Enterprise"
+- id: developer-experience
+  name: "Developer Experience"
+- id: surveys
+  name: "Surveys"
+- id: deployment-tracking
+  name: "Deployment Tracking"
+- id: ai-powered
+  name: "AI-Powered"
+- id: git-analytics
+  name: "Git Analytics"
+- id: open-source
+  name: "Open Source"
+- id: self-hosted
+  name: "Self-Hosted"
+- id: free
+  name: "Free"
+- id: devsecops
+  name: "DevSecOps"
+- id: continuous-delivery
+  name: "Continuous Delivery"
+- id: ci-cd
+  name: "CI/CD"
+- id: code-churn
+  name: "Code Churn"
+- id: software-analytics
+  name: "Software Analytics"
+- id: cncf
+  name: "CNCF"
+- id: project-metrics
+  name: "Project Metrics"
+- id: community-health
+  name: "Community Health"
+- id: metrics
+  name: "Metrics"
