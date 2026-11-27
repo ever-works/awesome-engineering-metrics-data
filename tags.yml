@@ -1,46 +1,52 @@
 - id: freemium
-  name: "Freemium"
+  name: Freemium
 - id: paid
-  name: "Paid"
+  name: Paid
 - id: api
-  name: "API"
+  name: API
 - id: dora-metrics
-  name: "DORA Metrics"
+  name: DORA Metrics
 - id: engineering-intelligence
-  name: "Engineering Intelligence"
+  name: Engineering Intelligence
 - id: enterprise
-  name: "Enterprise"
+  name: Enterprise
 - id: developer-experience
-  name: "Developer Experience"
+  name: Developer Experience
 - id: surveys
-  name: "Surveys"
+  name: Surveys
 - id: deployment-tracking
-  name: "Deployment Tracking"
+  name: Deployment Tracking
 - id: ai-powered
-  name: "AI-Powered"
+  name: AI Powered
 - id: git-analytics
-  name: "Git Analytics"
+  name: Git Analytics
 - id: open-source
-  name: "Open Source"
+  name: Open Source
 - id: self-hosted
-  name: "Self-Hosted"
+  name: Self-Hosted
 - id: free
-  name: "Free"
+  name: Free
 - id: devsecops
-  name: "DevSecOps"
+  name: DevSecOps
 - id: continuous-delivery
-  name: "Continuous Delivery"
+  name: Continuous Delivery
 - id: ci-cd
-  name: "CI/CD"
+  name: CI/CD
 - id: code-churn
-  name: "Code Churn"
+  name: Code Churn
 - id: software-analytics
-  name: "Software Analytics"
+  name: Software Analytics
 - id: cncf
-  name: "CNCF"
+  name: CNCF
 - id: project-metrics
-  name: "Project Metrics"
+  name: Project Metrics
 - id: community-health
-  name: "Community Health"
+  name: Community Health
 - id: metrics
-  name: "Metrics"
+  name: Metrics
+- id: analytics
+  name: Analytics
+- id: git-integration
+  name: Git Integration
+- id: jira-integration
+  name: Jira Integration

@@ -1,6 +1,74 @@
-- url: "https://github.com/topics/dora-metrics"
-  title: "GitHub topic — `dora-metrics` (160 repos)"
-- url: "https://github.com/topics/engineering-metrics"
-  title: "GitHub topic — `engineering-metrics` (121 repos)"
-- url: "https://github.com/topics/developer-productivity"
-  title: "GitHub topic — `developer-productivity` (1,205 repos)"
+- url: https://getdx.com
+  normalized_url: https://getdx.com/
+  first_seen_at: 2026-11-27T01:09:15.899Z
+  last_attempted_at: 2026-11-27T01:09:15.899Z
+  last_success_at: 2026-11-27T01:09:15.899Z
+  status: success
+  items_created: 1
+  pipeline: agent-pipeline
+- url: https://github.com/topics/developer-productivity
+  title: GitHub topic — `developer-productivity` (1,205 repos)
+  normalized_url: https://github.com/topics/developer-productivity
+- url: https://github.com/topics/dora-metrics
+  normalized_url: https://github.com/topics/dora-metrics
+  first_seen_at: 2026-11-27T01:07:53.410Z
+  last_attempted_at: 2026-11-27T01:07:53.410Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://github.com/topics/dora-metrics"
+- url: https://github.com/topics/engineering-metrics
+  title: GitHub topic — `engineering-metrics` (121 repos)
+  normalized_url: https://github.com/topics/engineering-metrics
+- url: https://haystackanalytics.io
+  normalized_url: https://haystackanalytics.io/
+  first_seen_at: 2026-11-27T01:10:06.074Z
+  last_attempted_at: 2026-11-27T01:10:06.074Z
+  status: error
+  items_created: 0
+  pipeline: agent-pipeline
+  error: "Processing failed for URL: https://haystackanalytics.io"
+- url: https://jellyfish.co
+  normalized_url: https://jellyfish.co/
+  first_seen_at: 2026-11-27T01:08:33.138Z
+  last_attempted_at: 2026-11-27T01:08:33.138Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://jellyfish.co"
+- url: https://linearb.io
+  normalized_url: https://linearb.io/
+  first_seen_at: 2026-11-27T01:08:15.982Z
+  last_attempted_at: 2026-11-27T01:08:15.982Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://linearb.io"
+- url: https://swarmia.com
+  normalized_url: https://swarmia.com/
+  first_seen_at: 2026-11-27T01:08:51.108Z
+  last_attempted_at: 2026-11-27T01:08:51.108Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://swarmia.com"
+- url: https://usehaystack.io
+  normalized_url: https://usehaystack.io/
+  first_seen_at: 2026-11-27T01:10:39.904Z
+  last_attempted_at: 2026-11-27T01:10:39.904Z
+  last_success_at: 2026-11-27T01:10:39.904Z
+  status: success
+  items_created: 1
+  pipeline: agent-pipeline
+- url: https://www.pluralsight.com/products/flow
+  normalized_url: https://www.pluralsight.com/products/flow
+  first_seen_at: 2026-11-27T01:10:49.097Z
+  last_attempted_at: 2026-11-27T01:10:49.097Z
+  status: error
+  items_created: 0
+  pipeline: agent-pipeline
+  error: "Processing failed for URL: https://www.pluralsight.com/products/flow"
